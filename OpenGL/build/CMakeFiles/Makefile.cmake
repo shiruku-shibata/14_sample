@@ -7,7 +7,7 @@ set(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")
 # The top level Makefile was generated from the following files:
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
-  "/Users/k22065kk/Desktop/game/14-sample/CMakeLists.txt"
+  "/Users/k22065kk/Documents/GitHub/14_sample/OpenGL/CMakeLists.txt"
   "CMakeFiles/3.27.7/CMakeCCompiler.cmake"
   "CMakeFiles/3.27.7/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.27.7/CMakeSystem.cmake"

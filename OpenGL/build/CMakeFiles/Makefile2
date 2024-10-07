@@ -54,10 +54,10 @@ RM = /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/k22065kk/Desktop/game/14-sample
+CMAKE_SOURCE_DIR = /Users/k22065kk/Documents/GitHub/14_sample/OpenGL
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/k22065kk/Desktop/game/14-sample/build
+CMAKE_BINARY_DIR = /Users/k22065kk/Documents/GitHub/14_sample/OpenGL/build
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -81,14 +81,14 @@ clean: CMakeFiles/OpenGLArrowPointer.dir/clean
 CMakeFiles/OpenGLArrowPointer.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/OpenGLArrowPointer.dir/build.make CMakeFiles/OpenGLArrowPointer.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/OpenGLArrowPointer.dir/build.make CMakeFiles/OpenGLArrowPointer.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/k22065kk/Desktop/game/14-sample/build/CMakeFiles --progress-num=1,2 "Built target OpenGLArrowPointer"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/k22065kk/Documents/GitHub/14_sample/OpenGL/build/CMakeFiles --progress-num=1,2 "Built target OpenGLArrowPointer"
 .PHONY : CMakeFiles/OpenGLArrowPointer.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/OpenGLArrowPointer.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/k22065kk/Desktop/game/14-sample/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/k22065kk/Documents/GitHub/14_sample/OpenGL/build/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/OpenGLArrowPointer.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/k22065kk/Desktop/game/14-sample/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/k22065kk/Documents/GitHub/14_sample/OpenGL/build/CMakeFiles 0
 .PHONY : CMakeFiles/OpenGLArrowPointer.dir/rule
 
 # Convenience name for target.
