@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/k22065kk/Desktop/game/14-sample/main.cpp" "CMakeFiles/OpenGLArrowPointer.dir/main.cpp.o" "gcc" "CMakeFiles/OpenGLArrowPointer.dir/main.cpp.o.d"
+  "/Users/k22065kk/Documents/GitHub/14_sample/OpenGL/main.cpp" "CMakeFiles/OpenGLArrowPointer.dir/main.cpp.o" "gcc" "CMakeFiles/OpenGLArrowPointer.dir/main.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

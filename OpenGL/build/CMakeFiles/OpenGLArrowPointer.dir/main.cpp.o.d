@@ -1,5 +1,5 @@
 CMakeFiles/OpenGLArrowPointer.dir/main.cpp.o: \
-  /Users/k22065kk/Desktop/game/14-sample/main.cpp \
+  /Users/k22065kk/Documents/GitHub/14_sample/OpenGL/main.cpp \
   /opt/homebrew/include/GL/glew.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/cstddef \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__config \

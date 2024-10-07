@@ -1,3 +1,3 @@
-/Users/k22065kk/Desktop/game/14-sample/build/CMakeFiles/OpenGLArrowPointer.dir
-/Users/k22065kk/Desktop/game/14-sample/build/CMakeFiles/edit_cache.dir
-/Users/k22065kk/Desktop/game/14-sample/build/CMakeFiles/rebuild_cache.dir
+/Users/k22065kk/Documents/GitHub/14_sample/OpenGL/build/CMakeFiles/OpenGLArrowPointer.dir
+/Users/k22065kk/Documents/GitHub/14_sample/OpenGL/build/CMakeFiles/edit_cache.dir
+/Users/k22065kk/Documents/GitHub/14_sample/OpenGL/build/CMakeFiles/rebuild_cache.dir
