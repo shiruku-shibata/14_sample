@@ -10,6 +10,14 @@
 追記予定
 
 ## Usage
+### コンパイル方法
+①cd 14_sample
+
+　g++ -o OpenGLArrowPointer main.cpp -lglfw -lGLEW -framework OpenGL
+ 
+②cd build
+
+　./OpenGLArrowPointer 
 
 ## Features
 
